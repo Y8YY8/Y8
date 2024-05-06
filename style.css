@@ -240,17 +240,16 @@ li {
   background: #545454;
   word-wrap: break-word;
   outline: none;
-  height: 2400px;
   border-radius: 100Px;
   padding-top: 2%;
   margin: 3% 3% 3% 5%;
   display: grid;
   flex-grow: 1;
+  word-wrap: break-word;
  }
 
  .yuossef {
   overflow-y: auto;
-  /* overflow: clip; */
   width: 70%;
   background: #545454;
   outline: none;
@@ -267,10 +266,6 @@ li {
   color: #000;
   margin: 20px 30px 3px 20px;
   font-size: 1.5rem;
- }
-
- #ul-1 {
-  max-height: 1250px;
  }
 
  hr {
