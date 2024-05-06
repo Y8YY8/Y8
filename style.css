@@ -399,6 +399,11 @@ li {
   margin: auto;
   margin: 10% 5%;
  }
+ .icons img {
+  width: 40Px;
+  height: 40Px;
+ }
+
 
  /* كود يُنفذ على شاشات أصغر من ٧٥٠ بيكسل */
 }
