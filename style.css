@@ -400,8 +400,14 @@ li {
   margin: 10% 5%;
  }
  .icons img {
-  width: 40Px;
-  height: 40Px;
+  width: 43Px;
+  height: 43Px;
+ }
+ .prmy img {
+  width: 200px;
+ }
+ #pr{
+  width:150px;
  }
 
 
