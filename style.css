@@ -25,7 +25,9 @@ p {
  direction: rtl;
  font-size: 1rem;
 }
-
+.yuossef{
+ display:none;
+}
 p {
  font-size: 1.4rem;
  margin-right: 10%;
