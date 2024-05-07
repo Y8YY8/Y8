@@ -43,7 +43,9 @@ p {
  width: 100%;
  margin: 0;
 }
-
+ .claas{
+  padding-bottom:50px;
+ }
 img {
  margin: auto;
  margin: 10%;
@@ -421,8 +423,6 @@ width:200px;
  .yuossef-2{
   display:block;
  }
- .claas{
-  padding-bottom:50px;
- }
+
  /* كود يُنفذ على شاشات أصغر من ٧٥٠ بيكسل */
 }
