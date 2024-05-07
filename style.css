@@ -413,6 +413,11 @@ li {
 #m ,#w{
 width:200px;
 }
-
+.yuossef{
+ display:none;
+}
+ .yuossef-2{
+  display:block;
+ }
  /* كود يُنفذ على شاشات أصغر من ٧٥٠ بيكسل */
 }
