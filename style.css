@@ -8,6 +8,7 @@
 }
 #pn{
  padding:50px;
+ min-width:60px
 }
 body {
  margin: 0;
