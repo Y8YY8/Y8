@@ -6,10 +6,7 @@
 .pen,.pn{
  display:none;
 }
-#pn{
- padding:50px;
- min-width:60px
-}
+
 body {
  margin: 0;
  padding: 0;
